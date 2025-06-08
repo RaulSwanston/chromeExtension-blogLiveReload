@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "部落格即時重新載入"
+  },
+  "extensionDescription": {
+    "message": "當您在 Blogger 主題編輯器中儲存時，自動重新載入部落格。"
+  },
+  "popupTitle": {
+    "message": "選擇部落格"
+  },
+  "headerTitle": {
+    "message": "部落格即時重新載入"
+  },
+  "selectLabel": {
+    "message": "選擇要重新載入的部落格："
+  },
+  "blogSelected": {
+  "message": "成功選取部落格"
+  },
+  "setButton": {
+    "message": "設定"
+  }
+}

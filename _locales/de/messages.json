@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Blog Live Reload"
+  },
+  "extensionDescription": {
+    "message": "Lädt den Blog automatisch neu, wenn Sie im Blogger-Theme-Editor speichern."
+  },
+  "popupTitle": {
+    "message": "Blog auswählen"
+  },
+  "headerTitle": {
+    "message": "Blog Live Reload"
+  },
+  "selectLabel": {
+    "message": "Wählen Sie den zu aktualisierenden Blog aus:"
+  },
+  "blogSelected": {
+  "message": "Blog erfolgreich ausgewählt"
+  },
+  "setButton": {
+    "message": "Festlegen"
+  }
+}

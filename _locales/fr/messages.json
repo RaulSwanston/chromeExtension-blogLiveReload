@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Blog Live Reload"
+  },
+  "extensionDescription": {
+    "message": "Recharge automatiquement le blog lorsque vous enregistrez dans l'éditeur de thèmes Blogger."
+  },
+  "popupTitle": {
+    "message": "Sélectionner le blog"
+  },
+  "headerTitle": {
+    "message": "Blog Live Reload"
+  },
+  "selectLabel": {
+    "message": "Sélectionnez le blog à recharger :"
+  },
+  "blogSelected": {
+  "message": "Blog sélectionné avec succès"
+  },
+  "setButton": {
+    "message": "Définir"
+  }
+}

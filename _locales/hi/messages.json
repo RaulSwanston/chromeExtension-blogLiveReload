@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ब्लॉग लाइव रीलोड"
+  },
+  "extensionDescription": {
+    "message": "जब आप Blogger थीम संपादक में सहेजते हैं तो ब्लॉग को स्वचालित रूप से रीलोड करता है।"
+  },
+  "popupTitle": {
+    "message": "ब्लॉग चुनें"
+  },
+  "headerTitle": {
+    "message": "ब्लॉग लाइव रीलोड"
+  },
+  "selectLabel": {
+    "message": "रीलोड करने के लिए ब्लॉग चुनें:"
+  },
+  "blogSelected": {
+  "message": "ब्लॉग सफलतापूर्वक चुना गया"
+  },
+  "setButton": {
+    "message": "सेट करें"
+  }
+}

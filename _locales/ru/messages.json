@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Автоматическая перезагрузка блога"
+  },
+  "extensionDescription": {
+    "message": "Автоматически перезагружает блог при сохранении в редакторе тем Blogger."
+  },
+  "popupTitle": {
+    "message": "Выберите блог"
+  },
+  "headerTitle": {
+    "message": "Автоматическая перезагрузка блога"
+  },
+  "selectLabel": {
+    "message": "Выберите блог для перезагрузки:"
+  },
+  "blogSelected": {
+  "message": "Блог успешно выбран"
+  },
+  "setButton": {
+    "message": "Установить"
+  }
+}

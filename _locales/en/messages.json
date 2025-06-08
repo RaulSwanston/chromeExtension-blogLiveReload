@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Blog Live Reload"
+  },
+  "extensionDescription": {
+    "message": "Automatically reload the blog when saving in Blogger's theme editor."
+  },
+  "popupTitle": {
+    "message": "Select Blog"
+  },
+  "headerTitle": {
+    "message": "Blog Live Reload"
+  },
+  "selectLabel": {
+    "message": "Select the blog to reload:"
+  },
+  "blogSelected": {
+  "message": "Blog selected successfully"
+  },
+  "setButton": {
+    "message": "Set"
+  }
+}

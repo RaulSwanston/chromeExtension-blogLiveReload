@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ブログライブリロード"
+  },
+  "extensionDescription": {
+    "message": "Bloggerのテーマエディタで保存するとブログを自動的にリロードします。"
+  },
+  "popupTitle": {
+    "message": "ブログを選択"
+  },
+  "headerTitle": {
+    "message": "ブログライブリロード"
+  },
+  "selectLabel": {
+    "message": "リロードするブログを選択してください:"
+  },
+  "blogSelected": {
+  "message": "ブログが正常に選択されました"
+  },
+  "setButton": {
+    "message": "設定"
+  }
+}

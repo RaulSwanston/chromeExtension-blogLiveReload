@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "블로그 라이브 리로드"
+  },
+  "extensionDescription": {
+    "message": "Blogger 테마 편집기에서 저장할 때 블로그를 자동으로 새로 고칩니다."
+  },
+  "popupTitle": {
+    "message": "블로그 선택"
+  },
+  "headerTitle": {
+    "message": "블로그 라이브 리로드"
+  },
+  "selectLabel": {
+    "message": "새로 고칠 블로그 선택:"
+  },
+  "blogSelected": {
+  "message": "블로그가 성공적으로 선택되었습니다"
+  },
+  "setButton": {
+    "message": "설정"
+  }
+}

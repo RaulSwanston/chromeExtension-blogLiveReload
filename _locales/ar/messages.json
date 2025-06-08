@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "إعادة تحميل المدونة مباشرة"
+  },
+  "extensionDescription": {
+    "message": "يقوم بإعادة تحميل المدونة تلقائيًا عند الحفظ في محرر قوالب Blogger."
+  },
+  "popupTitle": {
+    "message": "اختر المدونة"
+  },
+  "headerTitle": {
+    "message": "إعادة تحميل المدونة مباشرة"
+  },
+  "selectLabel": {
+    "message": "اختر المدونة لإعادة التحميل:"
+  },
+  "blogSelected": {
+  "message": "تم تحديد المدونة بنجاح"
+  },
+  "setButton": {
+    "message": "تعيين"
+  }
+}

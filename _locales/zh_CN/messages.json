@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "博客实时重载"
+  },
+  "extensionDescription": {
+    "message": "在您保存 Blogger 主题编辑器时自动重新加载博客。"
+  },
+  "popupTitle": {
+    "message": "选择博客"
+  },
+  "headerTitle": {
+    "message": "博客实时重载"
+  },
+  "selectLabel": {
+    "message": "选择要重新加载的博客："
+  },
+  "blogSelected": {
+  "message": "博客选择成功"
+  },
+  "setButton": {
+    "message": "设置"
+  }
+}
